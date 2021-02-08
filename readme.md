@@ -1,3 +1,3 @@
-# Website of where I showcase my portfolio
+# Portfolio Website in work
 
-# Site showcases HTML, CSS, and JavaScript
+# Site showcases School projects and works
